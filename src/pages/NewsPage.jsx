@@ -1,5 +1,5 @@
 function NewsPage() {
-    return ( <>Новости</> );
+  return <>Новости</>;
 }
 
 export default NewsPage;

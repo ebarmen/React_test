@@ -1,5 +1,5 @@
 function Mainpage() {
-    return ( <>Главная</> );
+  return <>Главная</>;
 }
 
 export default Mainpage;
